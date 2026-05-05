@@ -1,0 +1,26 @@
+{
+  "name": "ai-agent-cli",
+  "version": "1.0.0",
+  "description": "AI Agent CLI Tool - Clone Scaler Academy Website",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "cli",
+    "openai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "openai": "^4.26.0",
+    "readline": "^1.3.0"
+  }
+}
