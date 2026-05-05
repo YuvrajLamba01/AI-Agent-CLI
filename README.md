@@ -256,9 +256,7 @@ This project demonstrates:
 - Prompt engineering.
 - Conversational AI.
 
-## License
 
-MIT
 
 ## Contributing
 
@@ -289,6 +287,8 @@ When recording your demo:
 5. Open the generated `index.html` in a browser.
 6. Show the responsive design by resizing the browser window.
 7. Demonstrate interactive elements such as button clicks, scrolling, and the mobile menu.
+
+8. 🎥 Watch the full demo on YouTube: https://youtu.be/DA6ByGY94s
 
 ## Key Assignment Points
 
