@@ -4,6 +4,8 @@ A conversational CLI agent powered by Gemini via the OpenAI-compatible SDK that 
 
 The agent works in a multi-step loop, reasons about the request, calls tools to generate files, verifies the output, and can continue the conversation for additional variations.
 
+🎥 Watch the full demo on YouTube: https://youtu.be/DA6ByGY94s
+
 ## Features
 
 - Conversational AI Agent: talk to the generator in your terminal and request multiple variations in one session.
