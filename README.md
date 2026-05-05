@@ -4,7 +4,7 @@ A conversational CLI agent powered by Gemini via the OpenAI-compatible SDK that 
 
 The agent works in a multi-step loop, reasons about the request, calls tools to generate files, verifies the output, and can continue the conversation for additional variations.
 
-🎥 Watch the full demo on YouTube: https://youtu.be/DA6ByGY94s
+🎥 Watch the full demo on YouTube: https://youtu.be/-DA6ByGY94s?si=1
 
 ## Features
 
@@ -290,7 +290,7 @@ When recording your demo:
 6. Show the responsive design by resizing the browser window.
 7. Demonstrate interactive elements such as button clicks, scrolling, and the mobile menu.
 
-8. 🎥 Watch the full demo on YouTube: https://youtu.be/DA6ByGY94s
+8. 🎥 Watch the full demo on YouTube: https://youtu.be/-DA6ByGY94s?si=1
 
 ## Key Assignment Points
 
